@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcolme+to+the+world+of+Felipe+Lima;I'm+19+years+old;I+from+Brasil,+CE;Becoming+a+Software+Engineering;Federal+University+of+Ceará;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Felipe+Lima;Full+Stack+Developer;Software+Engineering+Student+at+UFC;)](https://git.io/typing-svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)</div>
 
-</div>
-
-<div align="center">
 <br>
   
 <div align="center">
